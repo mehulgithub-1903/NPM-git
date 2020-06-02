@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+      "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehulgithub-1903/NPM-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehulgithub-1903/NPM-git/issues"
+  },
+  "homepage": "https://github.com/mehulgithub-1903/NPM-git#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
